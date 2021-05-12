@@ -1,0 +1,15 @@
+Task
+
+You are given two integer arrays of size X and X (  N & M are rows, and P is the column). Your task is to concatenate the arrays along  any axis .
+
+Input Format
+
+The first line contains space separated integers , N and M.
+
+The next  lines contains the space separated elements of the P columns.
+
+After that, the next  lines contains the space separated elements of the P columns
+
+Output Format
+
+Print the concatenated array of size X.
